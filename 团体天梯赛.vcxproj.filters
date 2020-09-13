@@ -26,5 +26,8 @@
     <ClCompile Include="L1-002.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="L1-003.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
