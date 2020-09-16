@@ -4,7 +4,7 @@ using namespace std;
 
 bool IsPrime(int v)
 {
-	for (int i = 2; i < sqrt(v); i++)
+	for (int i = 2; i <= sqrt(v); i++)
 	{
 		if (v % i == 0)
 			return false;
@@ -25,7 +25,7 @@ int main()
 		{
 			length = 0;
 			result = data;
-			for(int j=start;j<sqrt(data);j++)
+			for(int j=start;j<sqrt(data)+1;j++)
 			{
 				if (result % j == 0)
 				{
