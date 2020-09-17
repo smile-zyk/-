@@ -41,5 +41,11 @@
     <ClCompile Include="L1-007.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="L1-008.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-009.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
