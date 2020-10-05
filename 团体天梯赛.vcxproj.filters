@@ -107,5 +107,14 @@
     <ClCompile Include="L2-002.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="L2-001.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L2-007.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L2-008.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
