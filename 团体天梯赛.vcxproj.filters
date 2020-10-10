@@ -116,5 +116,50 @@
     <ClCompile Include="L2-008.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="L2-012.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-056.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-041.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-042.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-043.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-044.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-045.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-046.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-047.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-048.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-049.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L2-021.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L2-022.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-051.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-035.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
