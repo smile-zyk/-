@@ -2,7 +2,6 @@
 #include<algorithm>
 #define MAXN 10005
 using namespace std;
-
 struct message
 {
 	int id, fa, ma, child[6];
